@@ -135,10 +135,10 @@
     </div>
   </div>
 
-  <!-- SPLIT CONTENT -->
+ 
   <div class="split">
 
-    <!-- PROFESSIONAL IDENTITY -->
+
     <section class="professional">
       <h2>Professional Identity</h2>
 
@@ -158,7 +158,7 @@
       </div>
     </section>
 
-    <!-- PERSONAL IDENTITY -->
+
     <section class="personal">
       <h2>Personal Identity</h2>
 
