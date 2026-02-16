@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Rajan Kumar | Split-Screen Portfolio</title>
 
-  <!-- Fonts -->
+
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
 
   <style>
@@ -31,7 +31,7 @@
       font-family: 'Inter', sans-serif;
     }
 
-    /* MASTER BIO */
+
     .master-bio {
       padding: 80px 12%;
       text-align: center;
@@ -52,7 +52,7 @@
       font-size: 1.1rem;
     }
 
-    /* SPLIT SCREEN */
+   
     .split {
       display: grid;
       grid-template-columns: 1fr 1fr;
@@ -63,7 +63,7 @@
       padding: 70px 10%;
     }
 
-    /* LEFT: PROFESSIONAL */
+    
     .professional {
       background: linear-gradient(180deg, #0b0f14, #05080d);
       border-right: 1px solid #1f2933;
@@ -86,7 +86,7 @@
 
     .block p { color: var(--muted); font-size: 0.95rem; }
 
-    /* RIGHT: PERSONAL */
+    
     .personal {
       background: radial-gradient(circle at top, #0f172a, #020617);
       font-family: 'Playfair Display', serif;
@@ -118,7 +118,7 @@
 </head>
 <body>
 
-  <!-- MASTER BIO -->
+ 
   <div class="master-bio">
     <h1>Rajan <span>Kumar</span></h1>
     <p>
@@ -127,7 +127,7 @@
       beyond the desk.
     </p>
 
-    <!-- SOCIAL CONNECTIONS -->
+   
     <div style="margin-top:30px; display:flex; justify-content:center; gap:25px;">
       <a href="https://www.linkedin.com/in/rajan-kumar-6900ba2aa" target="_blank" style="color:#00e5a8; font-weight:600;">LinkedIn</a>
       <a href="https://github.com/rajan-kumar-0" target="_blank" style="color:#00e5a8; font-weight:600;">GitHub</a>
